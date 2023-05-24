@@ -74,6 +74,15 @@
     <Compile Include="Task6Page.xaml.cs">
       <DependentUpon>Task6Page.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Task7Page.xaml.cs">
+      <DependentUpon>Task7Page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Task8Page.xaml.cs">
+      <DependentUpon>Task8Page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Task9Page.xaml.cs">
+      <DependentUpon>Task9Page.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -107,6 +116,18 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Task6Page.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Task7Page.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Task8Page.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Task9Page.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

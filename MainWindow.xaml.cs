@@ -57,12 +57,12 @@ namespace skvor_pract4
 
         private void BtnTask7_Click(object sender, RoutedEventArgs e)
         {
-
+            MainFrame.Navigate(new Task7Page());
         }
 
         private void BtnTask8_Click(object sender, RoutedEventArgs e)
         {
-
+            MainFrame.Navigate(new Task8Page());
         }
 
         private void BtnTask9_Click(object sender, RoutedEventArgs e)
